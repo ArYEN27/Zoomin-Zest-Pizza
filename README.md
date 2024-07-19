@@ -1,5 +1,5 @@
 # Zoomin' Zest Pizza
-An online food delivery app to simplify the requirements of a company.
+An online food delivery app to simplify the requirements of a company called zoomin zet pizza..
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
