@@ -11,11 +11,7 @@ An online food delivery app to simplify the requirements of a Hotel Business cal
 </p>
 
 <p align=""left>
-Incorporated state management through Redux and
-Redux Toolkit, ensuring a smooth and efficient data flow. 
-Integrated thunks to enhance asynchronous data loading,
-enabling real-time updates for a seamless user experience.
-Designed and developed a polished and responsive user
-interface achieved through the implementation of Tailwind
-CSS
+Incorporated state management through Redux and Redux Toolkit, ensuring a smooth and efficient data flow. <br>
+Integrated thunks to enhance asynchronous data loading, enabling real-time updates for a seamless user experience. <br>
+Designed and developed a polished and responsive user interface achieved through the implementation of TailwindCSS. <br>
 </p>
