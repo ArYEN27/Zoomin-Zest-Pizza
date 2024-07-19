@@ -9,3 +9,13 @@ An online food delivery app to simplify the requirements of a Hotel Business cal
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
 </p>
+
+<p align=""left>
+Incorporated state management through Redux and
+Redux Toolkit, ensuring a smooth and efficient data flow. 
+Integrated thunks to enhance asynchronous data loading,
+enabling real-time updates for a seamless user experience.
+Designed and developed a polished and responsive user
+interface achieved through the implementation of Tailwind
+CSS
+</p>
